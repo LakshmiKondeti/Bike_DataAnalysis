@@ -1,0 +1,492 @@
+,Brand,Bike_Name,CC,KMPL,BHP,KerbWeight,ExShowroomPrice,Rating,Noofratings
+0,Royal Enfield,Royal Enfield Hunter 350,349.34 ,35,20.2,177,"1,49,900",4.8,87
+1,Royal Enfield,Royal Enfield Classic 350,349 ,34,20.2,195,"1,95,300",4.7,622
+2,Royal Enfield,Royal Enfield Continental GT 650,648 ,5,47,211,"3,18,796",4.8,1083
+3,Royal Enfield,Royal Enfield Bullet 350,349 ,5,20.2,195,"1,74,875",4.7,907
+4,Royal Enfield,Royal Enfield Meteor 350,349.34 ,33,19.94,191,"2,08,191",4.6,830
+5,Royal Enfield,Royal Enfield Guerrilla 450,452 ,30,39.47,185,"2,39,000",4.7,137
+6,Royal Enfield,Royal Enfield Himalayan 450,452 ,30,39.47,196,"2,85,000",4.7,254
+7,Royal Enfield,Royal Enfield Shotgun 650,648 ,22,46.39,240,"3,59,430",4.7,105
+8,Royal Enfield,Royal Enfield Super Meteor 650,648 ,29,46.3,241,"3,68,085",4.8,151
+9,Royal Enfield,Royal Enfield Classic 650,647.95 ,30,46.39,243,"3,37,000",4.6,17
+10,Royal Enfield,Royal Enfield Interceptor 650,648 ,24,47,213,"3,02,797",4.6,429
+11,Royal Enfield,Royal Enfield Goan Classic 350,349 ,33,20.2,197,"2,35,000",4.8,37
+12,Royal Enfield,Royal Enfield Scram 440,443 ,30,25.4,196,"2,08,000",4.2,26
+13,Royal Enfield,Royal Enfield Bear 650,648 ,25,46.8,216,"3,39,005",4.6,18
+14,Royal Enfield,Royal Enfield Himalayan 750,,,,,,,
+15,Royal Enfield,Royal Enfield Scrambler 450,,,,,,,
+16,Royal Enfield,Royal Enfield Flying Flea C6,,,,,,,
+17,Royal Enfield,Royal Enfield Bullet 650 Twin,,,,,,,
+18,Royal Enfield,Royal Enfield Continental GT 450,,,,,,,
+19,Royal Enfield,Royal Enfield Himalayan Electric,,,,,,,
+20,Royal Enfield,Royal Enfield Himalayan Raid 450,,,,,,,
+21,Royal Enfield,Royal Enfield Flying Flea S6 Scrambler,,,,,,,
+22,Bajaj,Bajaj Pulsar N160,164.82 ,49,15.68,152,"1,22,956",4.6,764
+23,Bajaj,Bajaj Pulsar NS200,199.5 ,5,24.13,158,"1,52,429",4.7,3106
+24,Bajaj,Bajaj Pulsar 125,124.4 ,50,11.64,140,"86,811",4.4,1306
+25,Bajaj,Bajaj Pulsar NS400Z,373 ,31,39.4,174,"1,83,763",4.6,340
+26,Bajaj,Bajaj Pulsar NS125,124.45 ,50,11.8,144,"1,03,252",4.5,764
+27,Bajaj,Bajaj Pulsar 150,149.5 ,5,13.8,148,"1,14,019",4.5,4228
+28,Bajaj,Bajaj Pulsar NS160,160.3 ,48,17.03,152,"1,39,460",4.6,1560
+29,Bajaj,Bajaj Pulsar RS 200,199.5 ,35,24.1,166,"1,72,908",4.7,2069
+30,Bajaj,Bajaj Dominar 400,373.3 ,27,39.42,193,"2,26,294",4.7,757
+31,Bajaj,Bajaj Pulsar 220 F,220 ,5,20.11,160,"1,40,062",4.7,292
+32,Bajaj,Bajaj Chetak,,,,,"1,09,504",,220
+33,Bajaj,Bajaj Dominar 250,248.8 ,32,26.63,180,"1,80,375",4.5,351
+34,Bajaj,Bajaj Pulsar N250,249 ,39,24.1,162,"1,46,641",4.6,265
+35,Bajaj,Bajaj Pulsar N125,124.58 ,57,11.83,125,"94,741",4.5,116
+36,Bajaj,Bajaj Pulsar N150,149.68 ,48,14.3,145,"1,21,832",4.6,244
+37,Bajaj,Bajaj Freedom,125 ,90,9.3,149,"93,276",4.7,550
+38,Bajaj,Bajaj Platina 100,102 ,72,7.79,117,"66,913",4.5,1770
+39,Bajaj,Bajaj Platina 110,115.45 ,70,8.48,119,"69,301",4.4,626
+40,Bajaj,Bajaj CT 110,115.45 ,70,8.48,127,"68,593",4.3,417
+41,Bajaj,Bajaj Avenger Street 160,160 ,45,14.79,156,"1,16,432",4.4,410
+42,Bajaj,Bajaj Avenger Cruise 220,220 ,5,18.76,163,"1,46,570",4.4,853
+43,Bajaj,Bajaj Pulsar P150,149.68 ,5,14.29,140,"1,17,191",4.4,82
+44,Bajaj,Bajaj Avenger Street 220,220 ,40,18.76,163,"1,43,998",4.5,52
+45,Bajaj,Bajaj Chetak [2024],,,,,"1,00,665",3.7,460
+46,Honda,Honda SP 125,123.94 ,62,10.72,116,"90,117",4.5,3244
+47,Honda,Honda Activa,109.51 ,45,7.73,106,"81,104",4.4,2939
+48,Honda,Honda Shine,123.94 ,55,10.59,113,"83,839",4.4,3494
+49,Honda,Honda Unicorn,162.71 ,54,12.73,140,"1,17,999",4.4,1297
+50,Honda,Honda Activa 125,123.92 ,47,8.19,110,"84,066",4.5,1749
+51,Honda,Honda CB350,348.66 ,35,20.7,187,"2,14,762",4.7,181
+52,Honda,Honda SP160,162.71 ,50,13.27,139,"1,21,226",4.5,256
+53,Honda,Honda Activa e,,,,,"1,17,000",4.5,76
+54,Honda,Honda Hornet 2.0,184.4 ,41,17.03,142,"1,43,000",4.2,544
+55,Honda,Honda Hness CB350,348.36 ,35,20.78,181,"2,10,480",4.5,200
+56,Honda,Honda Dio,109.51 ,48,7.75,103,"77,133",4.5,2020
+57,Honda,Honda CB350RS,348.36 ,35,20.78,180,"2,15,503",4.6,125
+58,Honda,Honda Shine 100,98.98 ,5,7.28,99,"66,786",4.7,557
+59,Honda,Honda Dio 125,123.92 ,47,8.16,104,"89,342",4.6,137
+60,Honda,Honda NX200,184.4 ,,,147,"1,68,478",4.7,9
+61,Honda,Honda Rebel 500,471 ,,,191,"5,12,000",,
+62,Honda,Honda CBR650R,649 ,,,209,"10,40,000",,
+63,Honda,Honda CB300R,286 ,31,30.7,146,"2,40,005",4.7,63
+64,Honda,Honda Livo,109.51 ,60,8.67,113,"81,831",4.4,1120
+65,Honda,Honda CB200X,184.4 ,43,17.03,147,"1,51,095",4.4,170
+66,Honda,Honda CB650R,649 ,,,205,"9,60,000",,
+67,Honda,Honda CD 110 Dream,109.51 ,62,8.67,112,"76,012",4.3,479
+68,Honda,Honda CB300F Flex-Fuel,293.52 ,35,24.54,153,"1,70,006",4.6,20
+69,Honda,Honda NX500,471 ,,,196,"5,90,000",4.6,20
+70,Honda,Honda QC1,,,,,"90,000",4.5,23
+71,Honda,Honda Goldwing Tour,1833 ,5,124.7,390,"39,77,923",4.7,22
+72,Honda,Honda Africa Twin,1082 ,,,239,"16,01,500",4.9,9
+73,Honda,Honda Transalp XL750,755 ,,,208,"10,99,990",,6
+74,Honda,Honda X-ADV,745 ,,,,"11,90,000",,
+75,Honda,Honda CBR300R,,,,,,,
+76,Honda,Honda PCX 125,,,,,,,
+77,Honda,Honda Activa 7G,,,,,,,
+78,Honda,Honda CB750 Hornet,,,,,,,
+79,Honda,Honda CRF300L,,,,,,,
+80,Honda,Honda CRF300 Rally,,,,,,,
+81,Honda,Honda CB500F,,,,,,,
+82,Honda,Honda CBR500R,,,,,,,
+83,Honda,Honda CB1000R,,,,,,,
+84,TVS,TVS Apache RTR 160,159.7 ,45,15.82,137,"1,18,142",4.5,3109
+85,TVS,TVS Raider 125,124.8 ,57,11.2,123,"90,094",4.4,2457
+86,TVS,TVS Jupiter,113.3 ,53,7.91,105,"80,552",4.6,701
+87,TVS,TVS Ntorq 125,124.8 ,42,9.25,118,"94,645",4.4,2086
+88,TVS,TVS Ronin,225.9 ,40,20.1,159,"1,35,551",4.6,661
+89,TVS,TVS Apache RTR 160 4V,159.7 ,45,17.31,144,"1,23,670",4.5,2155
+90,TVS,TVS Apache RR 310,312.2 ,33,37.48,174,"2,78,063",4.7,120
+91,TVS,TVS Jupiter 125,124.8 ,53,8.04,108,"88,834",,633
+92,TVS,TVS iQube,,,,,"1,02,338",3.6,472
+93,TVS,TVS Sport,109.7 ,70,8.08,112,"60,881",4.4,1435
+94,TVS,TVS Apache RTR 310,312.12 ,32,35.08,169,"2,50,054",4.8,211
+95,TVS,TVS Apache RTR 200 4V,197.75 ,5,20.54,152,"1,49,912",4.5,1677
+96,TVS,TVS XL 100 Heavy Duty,99.7 ,55,4.3,88,"45,791",4.4,333
+97,TVS,TVS Apache RTR 180,177.4 ,50,16.78,140,"1,35,619",4.6,668
+98,TVS,TVS Radeon,109.7 ,62,8.08,113,"74,207",4.4,549
+99,TVS,TVS Star City Plus,109.7 ,70,8.08,115,"74,808",4.4,721
+100,TVS,TVS Zest 110,109.7 ,45,7.71,103,"75,199",4.2,208
+101,TVS,TVS XL 100 Comfort,99.7 ,55,4.3,86,"46,728",4.2,287
+102,TVS,TVS X,,,,,"2,52,319",3.4,22
+103,TVS,TVS XL EV,,,,,,,
+104,TVS,TVS Apache RTX 300,,,,,,,
+105,TVS,TVS Jupiter CNG,,,,,,,
+106,TVS,TVS Jupiter Electric,,,,,,,
+107,TVS,TVS RTS X,,,,,,,
+108,TVS,TVS Raider 125 Flex-Fuel,,,,,,,
+109,Yamaha,Yamaha MT 15 V2,155 ,5,18.1,141,"1,70,583",4.7,1353
+110,Yamaha,Yamaha R15 V4,155 ,5,18.1,141,"1,85,255",4.8,1192
+111,Yamaha,Yamaha FZS FI V4,149 ,49,12.2,136,"1,31,283",4.6,387
+112,Yamaha,Yamaha FZ S Hybrid,149 ,51,12.2,136,"1,45,385",4.6,27
+113,Yamaha,Yamaha Aerox 155,155 ,40,14.75,126,"1,50,882",4.6,253
+114,Yamaha,Yamaha FZ S FI,149 ,48,12.2,135,"1,23,485",4.3,1340
+115,Yamaha,Yamaha Ray ZR 125,125 ,5,8.04,99,"88,396",4.3,411
+116,Yamaha,Yamaha YZF-R3,321 ,29,41.4,169,"3,60,278",3.4,47
+117,Yamaha,Yamaha FZ X,149 ,48,12.2,139,"1,39,092",3.9,568
+118,Yamaha,Yamaha MT-03,321 ,35,41.4,167,"3,50,278",,48
+119,Yamaha,Yamaha FZ FI,149 ,45,12.2,135,"1,17,842",4.6,507
+120,Yamaha,Yamaha R15S,155 ,47,18.1,142,"1,68,355",4.8,224
+121,Yamaha,Yamaha Fascino 125,125 ,50,8.04,99,"83,568",4.3,272
+122,Yamaha,Yamaha YZF-R7,,,,,,,
+123,Yamaha,Yamaha Tenere 700,,,,,,,
+124,Yamaha,Yamaha MT-09,,,,,,,
+125,Yamaha,Yamaha Lander 250,,,,,,,
+126,Yamaha,Yamaha YZF R9,,,,,,,
+127,Yamaha,Yamaha Nmax 155,,,,,,,
+128,Yamaha,Yamaha MT-07,,,,,,,
+129,Yamaha,Yamaha XSR 155,,,,,,,
+130,Yamaha,Yamaha RX 100,,,,,,,
+131,Hero,Hero Xtreme 125R,124.7 ,59,11.4,136,"98,232",4.6,1224
+132,Hero,Hero Splendor Plus,97.2 ,61,7.91,112,"74,932",4.6,3973
+133,Hero,Hero Xtreme 250R,249.03 ,36,29.5,167.7,"1,80,000",4.8,93
+134,Hero,Hero Xpulse 210,210 ,38,24.2,168,"1,75,800",4.8,62
+135,Hero,Hero Splendor Plus Xtec,97.2 ,70,7.9,112,"80,750",4.6,642
+136,Hero,Hero Xtreme 160R,163.2 ,5,14.79,139.5,"1,11,309",4.4,531
+137,Hero,Hero HF Deluxe,97.2 ,70,7.91,110,"56,701",4.5,3420
+138,Hero,Hero Xpulse 200 4V,199.6 ,5,18.9,159,"1,51,235",4.5,515
+139,Hero,Hero Super Splendor,124.7 ,5,10.72,122,"81,030",4.4,1380
+140,Hero,Hero Xtreme 160R 4V,163.2 ,46,16.6,144,"1,28,375",4.7,122
+141,Hero,Hero Xoom 125,124.6 ,48,9.8,120,"88,465",4.6,49
+142,Hero,Hero Glamour,124.7 ,66,10.39,121.3,"85,080",4.1,1168
+143,Hero,Hero Destini 125,124.6 ,56,,115,"81,337",4.6,43
+144,Hero,Hero Karizma XMR,210 ,35,25.15,163.5,"1,81,400",4.5,193
+145,Hero,Hero Pleasure +,110.9 ,50,,104,"70,611",4.5,452
+146,Hero,Hero Mavrick 440,440 ,32,27,191,"1,99,500",4.8,126
+147,Hero,Hero Passion Plus,97.2 ,5,7.91,115,"79,498",4.6,295
+148,Hero,Hero Xoom,110.9 ,45,8.05,108,"76,212",4.4,148
+149,Hero,Hero Super Splendor Xtec,124.7 ,61,10.72,122,"84,975",4.5,142
+150,Hero,Hero Glamour Xtec,124.7 ,54,10.72,122,"90,099",4.1,201
+151,Hero,Hero Xoom 160,156 ,41,14.6,142,"1,48,500",4.8,28
+152,Hero,Hero Passion Xtec,113.2 ,60,,117,"81,775",3.8,203
+153,Hero,Hero Pleasure + Xtec,110.9 ,50,,106,"79,834",3.8,83
+154,Hero,Hero Destini Prime,124.6 ,50,,115,"75,969",4.7,59
+155,Hero,Hero Mavrick 440 Scrambler,,,,,,,
+156,Hero,Hero Xpulse 421,,,,,,,
+157,Hero,Hero Karizma XMR 250,,,,,,,
+158,Hero,Hero Mavrick 440 [2025],,,,,,,
+159,Hero,Hero Karizma 400,,,,,,,
+160,KTM,KTM 200 Duke,199.5 ,33,24.67,159,"2,05,516",4.7,525
+161,KTM,KTM 250 Duke,249.07 ,32,30.57,162.8,"2,29,995",4.8,274
+162,KTM,KTM 390 Duke,398.63 ,5,45.3,168.3,"2,95,403",4.8,308
+163,KTM,KTM 1390 Super Duke R,1350 ,30,187.7,210,"22,95,800",4.5,25
+164,KTM,KTM 390 Adventure,398.63 ,,,182,"3,68,259",4.8,10
+165,KTM,KTM RC 200,199.5 ,35,24.6,160,"2,33,004",4.4,209
+166,KTM,KTM RC 390,373.27 ,29,42.9,172,"3,23,006",4.7,126
+167,KTM,KTM 250 Adventure,248.76 ,,,177,"2,60,397",3.7,10
+168,KTM,KTM 390 Adventure X,398.63 ,,,181,"2,91,699",4.7,6
+169,KTM,KTM 890 Duke R,889 ,,,180,"14,50,000",4.3,6
+170,KTM,KTM 390 Enduro R,398.63 ,47,45.37,177,"3,39,028",,
+171,KTM,KTM 390 Adventure [2024],373.27 ,28,42.9,177,"3,41,878",4.7,62
+172,KTM,KTM 890 Adventure R,889 ,,,215,"15,80,000",,1
+173,KTM,KTM 390 Adventure X [2024],373.27 ,32,42.9,177,"2,83,797",4.7,41
+174,KTM,KTM 250 Adventure [2024],248.76 ,30,29.63,177,"2,46,651",4.7,52
+175,KTM,KTM 1290 Super Adventure S,1301 ,,,250,"22,73,900",,2
+176,KTM,KTM 450 SX-F,449.9 ,,,107,"10,25,000",,
+177,KTM,KTM 250 SX-F,249.9 ,,,104,"9,58,000",,
+178,KTM,KTM 350 EXC-F,349.7 ,,,103.2,"12,96,000",,1
+179,KTM,KTM 85 SX,84.9 ,,,75,"6,69,000",,2
+180,KTM,KTM 65 SX,64.9 ,,,62,"5,46,500",,
+181,KTM,KTM 50 SX,49.9 ,,,45,"4,75,000",3.7,3
+182,KTM,KTM 390 SMC R,,,,,,,
+183,KTM,KTM RC 160,,,,,,,
+184,KTM,KTM 160 Duke,,,,,,,
+185,KTM,KTM 890 Duke,,,,,,,
+186,KTM,KTM 125 Duke [2025],,,,,,,
+187,KTM,KTM 390 Adventure R,,,,,,,
+188,KTM,KTM 650 Duke,,,,,,,
+189,Kawasaki,Kawasaki Z900,948 ,18,123.64,212,"9,38,000",4.9,224
+190,Kawasaki,Kawasaki Ninja ZX-10R,998 ,37,200.21,207,"18,50,000",4.9,312
+191,Kawasaki,Kawasaki Ninja 300,296 ,25,38.88,179,"3,43,000",4.7,121
+192,Kawasaki,Kawasaki Ninja 500,451 ,21,44.7,171,"5,29,000",,3
+193,Kawasaki,Kawasaki W175,177 ,40,12.8,135,"1,22,014",4.2,70
+194,Kawasaki,Kawasaki Ninja ZX-6R,636 ,5,122.03,198,"11,53,000",,48
+195,Kawasaki,Kawasaki Eliminator,451 ,29,44.7,176,"5,62,037",4.6,19
+196,Kawasaki,Kawasaki Z650,649 ,27,67.31,191,"6,65,078",4.9,77
+197,Kawasaki,Kawasaki Ninja H2 SX,998 ,,,266,"32,91,000",4.8,16
+198,Kawasaki,Kawasaki Ninja ZX-4R,399 ,,,189,"8,79,000",4.8,31
+199,Kawasaki,Kawasaki Ninja 650,649 ,,,196,"7,27,000",4.5,2
+200,Kawasaki,Kawasaki Vulcan S,649 ,,,235,"7,10,000",3.8,4
+201,Kawasaki,Kawasaki Z H2,998 ,,,239,"23,48,138",4.6,8
+202,Kawasaki,Kawasaki KLX 230,233 ,,,139,"3,30,000",,2
+203,Kawasaki,Kawasaki Ninja ZX-4RR,399 ,,,189,"9,42,000",,7
+204,Kawasaki,Kawasaki Ninja 1100SX,1099 ,,,238,"13,49,000",,6
+205,Kawasaki,Kawasaki Ninja H2 SX SE,998 ,,,268,"32,95,065",,10
+206,Kawasaki,Kawasaki Versys 650,649 ,,,218,"7,93,000",,
+207,Kawasaki,Kawasaki Z650RS,649 ,,,192,"7,20,000",4.6,8
+208,Kawasaki,Kawasaki Z900RS,948 ,,,215,"17,47,000",,2
+209,Kawasaki,Kawasaki KLX 140R F,144 ,,,99,"4,11,000",,
+210,Kawasaki,Kawasaki KLX110R L,112 ,,,,"3,12,000",,2
+211,Kawasaki,Kawasaki KLX 300R,292 ,,,128,"5,60,000",,
+212,Kawasaki,Kawasaki KX 85,84 ,,,,"4,20,000",,1
+213,Kawasaki,Kawasaki KX112,112 ,,,,"4,87,800",4.5,2
+214,Kawasaki,Kawasaki KX65,64 ,,,,"3,12,000",,1
+215,Kawasaki,Kawasaki Versys 1100,1099 ,,,257,"12,90,000",,1
+216,Kawasaki,Kawasaki KLX230RS,233 ,,,115,"5,21,000",,3
+217,Kawasaki,Kawasaki KX250,249 ,,,,"7,99,032",,
+218,Kawasaki,Kawasaki KLX450R,449 ,,,,"8,99,000",4.5,2
+219,Kawasaki,Kawasaki KX450,449 ,,,,"9,28,000",,2
+220,Kawasaki,Kawasaki Versys-X 300,296 ,,,179,"3,79,900",,
+221,Kawasaki,Kawasaki W230,,,,,,,
+222,Kawasaki,Kawasaki Z900 [2025],,,,,,,
+223,Suzuki,Suzuki Access 125,124 ,46,8.3,106,"84,442",4.6,256
+224,Suzuki,Suzuki Burgman Street 125,124 ,5,8.58,110,"96,480",4.4,919
+225,Suzuki,Suzuki Gixxer SF,155 ,45,13.4,148,"1,47,942",4.5,642
+226,Suzuki,Suzuki Hayabusa,1340 ,5,190,266,"16,90,000",,3
+227,Suzuki,Suzuki V-Strom SX,249 ,36,26.1,167,"2,18,454",4.7,152
+228,Suzuki,Suzuki Avenis 125,124.3 ,50,8.58,106,"93,202",4.6,291
+229,Suzuki,Suzuki Gixxer,155 ,45,13.41,141,"1,38,442",4.4,273
+230,Suzuki,Suzuki Gixxer SF 250,249 ,36,26.13,161,"2,09,022",4.6,219
+231,Suzuki,Suzuki Gixxer 250,249 ,35,26.13,156,"2,00,021",4.7,117
+232,Suzuki,Suzuki Gixxer SF 250 Flex Fuel,249 ,36,26.13,161,"2,17,358",4.7,3
+233,Suzuki,Suzuki GSX-8R,776 ,,,205,"9,25,000",,4
+234,Suzuki,Suzuki Katana,999 ,,,217,"13,62,969",4.9,11
+235,Suzuki,Suzuki V-Strom 800DE,776 ,,,232,"10,30,000",4.3,3
+236,Suzuki,Suzuki E Access,,,,,,,
+237,Suzuki,Suzuki GSX-8S,,,,,,,
+238,Suzuki,Suzuki Burgman Street Electric,,,,,,,
+239,Triumph,Triumph Speed 400,398.15 ,27,39.5,176,"2,46,374",4.6,120
+240,Triumph,Triumph Speed T4,398.15 ,28,30.6,180,"1,99,157",4.6,66
+241,Triumph,Triumph Scrambler 400 XC,398 ,26,39.5,190,"2,94,304",12th May5,3
+242,Triumph,Triumph Scrambler 400 X,398.15 ,26,39.5,185,"2,67,352",4.8,139
+243,Triumph,Triumph Street Triple RS,765 ,,,166,"11,81,410",4.7,18
+244,Triumph,Triumph Rocket 3,2458 ,15,165,304,"21,98,251",4.7,47
+245,Triumph,Triumph Trident 660,660 ,20,80,189,"8,25,460",4.9,12
+246,Triumph,Triumph Daytona 660,660 ,,,201,"9,72,450",4.4,11
+247,Triumph,Triumph Speed Triple 1200 RS,1160 ,,,198,"17,95,000",,4
+248,Triumph,Triumph Bonneville Bobber,1200 ,,,251,"12,05,000",4.6,9
+249,Triumph,Triumph Tiger 900,888 ,,,219,"14,15,000",,4
+250,Triumph,Triumph Street Triple R,765 ,,,168,"10,17,000",4.9,9
+251,Triumph,Triumph Speed Twin 900,900 ,,,216,"8,89,000",,1
+252,Triumph,Triumph Scrambler 900,900 ,,,223,"9,89,000",4.9,8
+253,Triumph,Triumph Speed Twin 1200,1200 ,,,216,"12,75,000",4.5,2
+254,Triumph,Triumph Bonneville T120,1200 ,,,236,"11,39,000",,1
+255,Triumph,Triumph Tiger 1200,1160 ,,,245,"19,38,990",4.8,6
+256,Triumph,Triumph Scrambler 1200,1200 ,,,228,"11,83,000",,3
+257,Triumph,Triumph Bonneville T100,900 ,,,228,"9,99,000",,1
+258,Triumph,Triumph Bonneville Speedmaster,1200 ,,,263,"12,05,000",,5
+259,Triumph,Triumph Tiger Sport 660,660 ,,,206,"9,45,000",4.6,7
+260,Triumph,Triumph Thruxton 400,,,,,,,
+261,Triumph,Triumph Tiger Sport 800,,,,,,,
+262,Ampere,Ampere Reo,,,,,"49,900",4.5,12
+263,Ampere,Ampere Magnus,,,,,"84,829",2.9,333
+264,Ampere,Ampere Primus,,,,,"1,19,893",,19
+265,Ampere,Ampere Zeal EX,,,,,"86,690",3.6,7
+266,Ampere,Ampere Nexus,,,,,"1,14,900",4.6,49
+267,Aprilia,Aprilia RS 457,457 ,24,46.9,175,"4,20,002",4.8,224
+268,Aprilia,Aprilia Tuono 457,457 ,,,,"3,95,005",4.5,8
+269,Aprilia,Aprilia SR 160,160.03 ,35,11.11,118,"1,32,812",3.6,95
+270,Aprilia,Aprilia SR 125,124.45 ,40,9.97,118,"1,25,156",4.5,115
+271,Aprilia,Aprilia RS 660,659 ,,,183,"17,74,000",4.3,3
+272,Aprilia,Aprilia SXR 160,160.03 ,35,10.94,129,"1,45,484",3.9,55
+273,Aprilia,Aprilia RSV4 1100 Factory,1099 ,,,202,"31,26,000",,4
+274,Aprilia,Aprilia Storm 125,124.45 ,40,9.97,118,"1,16,782",4.5,78
+275,Aprilia,Aprilia SXR 125,124.45 ,,,129,"1,34,102",3.9,23
+276,Aprilia,Aprilia Tuareg 660,659 ,,,204,"18,85,000",,1
+277,Aprilia,Aprilia Tuono 660,659 ,,,183,"17,44,000",,1
+278,Aprilia,Aprilia Tuareg 457,,,,,,,
+279,Ather,Ather Rizta,,,,,"1,30,867",4.7,178
+280,Ather,Ather 450X,,,,,"1,55,835",,295
+281,Ather,Ather 450S,,,,,"1,41,250",4.5,59
+282,Ather,Ather 450 Apex,,,,,"1,91,670",4.5,17
+283,Benelli,Benelli TRK 502X,500 ,23,46.8,235,"6,70,000",,
+284,Benelli,Benelli TRK 502,500 ,,,228,"6,20,000",,
+285,Benelli,Benelli 502C,500 ,,,216,"5,25,000",4.6,17
+286,Benelli,Benelli Leoncino 500,500 ,,,207,"4,98,974",,14
+287,Benelli,Benelli TNT 300,,,,,,,
+288,Benelli,Benelli TNT600i,,,,,,,
+289,Benelli,Benelli 752S,,,,,,,
+290,Benelli,Benelli Leoncino 800,,,,,,,
+291,Benling,Benling Aura,,,,,"91,667",2.6,126
+292,Benling,Benling Falcon,,,,,"60,923",3.6,33
+293,Benling,Benling Kriti,,,,,"56,781",3.2,5
+294,BGauss,BGauss C12i,,,,,"99,990",4.4,36
+295,BGauss,BGauss RUV 350,,,,,"1,19,402",4.9,26
+296,BMW,BMW G310 RR,312.12 ,5,33.5,174,"3,05,000",4.7,341
+297,BMW,BMW S1000RR,999 ,5,206.51,197,"21,10,000",4.6,11
+298,BMW,BMW M 1000 RR,999 ,46,209.19,192,"49,00,000",4.8,37
+299,BMW,BMW CE 02,,,,,"4,49,900",3.7,6
+300,BMW,BMW R 1250 GS,1254 ,,,249,"20,55,000",,13
+301,BMW,BMW C 400 GT,350 ,,,214,"11,50,000",,1
+302,BMW,BMW S 1000 R,999 ,,,199,"19,00,000",4.6,14
+303,BMW,BMW R 1250 GS Adventure,1254 ,,,268,"22,50,000",4.9,25
+304,BMW,BMW F 900 GS,895 ,,,219,"13,75,000",4.8,5
+305,BMW,BMW F850 GS,853 ,,,233,"12,95,000",4.9,13
+306,BMW,BMW R 1300 GS,1300 ,,,237,"21,20,000",,1
+307,BMW,BMW CE 04,,,,,"15,25,000",,4
+308,BMW,BMW R 12 nine T,1170 ,,,220,"21,10,000",4.7,3
+309,BMW,BMW F 900 GS Adventure,895 ,,,209,"14,75,000",,1
+310,BMW,BMW M 1000 R,999 ,,,199,"33,00,000",,6
+311,BMW,BMW K 1600,1649 ,,,344,"33,32,775",,6
+312,BMW,BMW R 1250 RT,1254 ,,,279,"24,95,000",,3
+313,BMW,BMW M 1000 XR,999 ,,,223,"45,50,000",,2
+314,BMW,BMW S 1000 XR,999 ,,,227,"22,75,000",4.5,2
+315,BMW,BMW R 1300 GS Adventure,1300 ,,,269,"22,95,000",,1
+316,BMW,BMW R 12,1170 ,,,227,"20,10,000",,4
+317,BMW,BMW F900XR,895 ,,,219,"12,55,000",,6
+318,BMW,BMW R18,1802 ,,,427,"32,50,000",4.6,15
+319,BMW,BMW R 1300 R,,,,,,,
+320,BMW,BMW R nineT Racer,,,,,,,
+321,BMW,BMW F 450 GS,,,,,,,
+322,Bounce,Bounce Infinity E1,,,,,"1,15,605",3.6,215
+323,Brixton Motorcycles,Brixton Motorcycles Crossfire 500 X,486 ,,,190,"4,74,000",3.8,4
+324,Brixton Motorcycles,Brixton Motorcycles Cromwell 1200,1222 ,,,235,"7,84,000",4.8,6
+325,Brixton Motorcycles,Brixton Motorcycles Crossfire 500 XC,486 ,,,195,"5,19,000",,
+326,Brixton Motorcycles,Brixton Motorcycles Cromwell 1200 X,1222 ,,,235,"9,10,000",,
+327,BSA,BSA Gold Star 650,652 ,26,45.6,201,"3,12,150",4.6,33
+328,BSA,BSA Scrambler 650,,,,,,,
+329,CFMoto,CFMoto 450 MT,,,,,,,
+330,Ducati,Ducati Panigale V4,1103 ,,,191,"29,99,000",,3
+331,Ducati,Ducati Panigale V4 R,998 ,5,215,193.5,"69,99,000",4.9,23
+332,Ducati,Ducati Monster,937 ,,,188,"12,95,000",4.7,19
+333,Ducati,Ducati Panigale V2,955 ,5,152.8,200,"20,67,757",4.9,57
+334,Ducati,Ducati Streetfighter V4,1103 ,,,201,"24,62,400",4.8,4
+335,Ducati,Ducati Scrambler Icon,803 ,,,185,"9,96,700",,1
+336,Ducati,Ducati Diavel V4,1158 ,,,236,"25,91,256",4.7,3
+337,Ducati,Ducati SuperSport,937 ,,,210,"16,05,700",4.8,19
+338,Ducati,Ducati DesertX,937 ,,,223,"18,33,200",3.7,3
+339,Ducati,Ducati Streetfighter V2,955 ,,,200,"18,50,200",4.8,5
+340,Ducati,Ducati Multistrada V2,937 ,,,222,"16,35,000",,1
+341,Ducati,Ducati Scrambler Nightshift,803 ,,,191,"12,00,118",,2
+342,Ducati,Ducati Multistrada V4,1158 ,,,240,"21,48,000",,1
+343,Ducati,Ducati Hypermotard 698 Mono,659 ,,,159,"16,50,000",,1
+344,Ducati,Ducati Multistrada V4 RS,1103 ,,,260,"38,40,448",4.5,2
+345,Ducati,Ducati Hypermotard 950,937 ,,,200,"16,00,500",4.4,7
+346,Ducati,Ducati Scrambler 1100,1079 ,,,206,"13,40,000",4.9,11
+347,Ducati,Ducati Scrambler Full Throttle,803 ,,,185,"12,60,000",,
+348,Ducati,Ducati Panigale V2 [2025],,,,,,,
+349,Ducati,Ducati Multistrada V2 [2025],,,,,,,
+350,Ducati,Ducati XDiavel V4,,,,,,,
+351,Evolet,Evolet Derby,,,,,"71,399",4.4,24
+352,Evolet,Evolet Pony,,,,,"55,799",4.5,35
+353,Ferrato,Ferrato Disruptor,,,,,"1,54,999",4.7,15
+354,Gemopai,Gemopai Ryder,,,,,"70,822",3.4,19
+355,Gemopai,Gemopai Astrid Lite,,,,,"92,290",2.9,46
+356,Gemopai,Gemopai Ryder SuperMax,,,,,"79,999",4.3,6
+357,Harley-Davidson,Harley-Davidson X440,440 ,32,27,190.5,"2,39,500",4.8,573
+358,Harley-Davidson,Harley-Davidson Sportster S,1252 ,19,120.69,228,"16,48,938",4.8,49
+359,Harley-Davidson,Harley-Davidson Fat Bob,1868 ,,,306,"21,48,934",4.9,8
+360,Harley-Davidson,Harley-Davidson Fat Boy,1868 ,,,317,"25,68,921",4.6,13
+361,Harley-Davidson,Harley-Davidson Nightster,975 ,,,221,"13,38,924",4.6,14
+362,Harley-Davidson,Harley-Davidson Breakout,1923 ,,,310,"30,99,000",3.7,3
+363,Harley-Davidson,Harley-Davidson Road Glide,1923 ,,,380,"41,78,915",,5
+364,Harley-Davidson,Harley-Davidson Street Glide,1923 ,,,368,"38,78,915",4.8,4
+365,Harley-Davidson,Harley-Davidson PAN America 1250 Special,1252 ,,,258,"24,63,776",,8
+366,Harley-Davidson,Harley-Davidson Heritage Classic,1868 ,,,330,"27,18,961",,2
+367,Hop Electric,Hop Electric OXO,,,,,"1,27,922",3.5,17
+368,Hop Electric,Hop Electric LEO,,,,,"84,360",2.7,7
+369,Husqvarna,Husqvarna Vitpilen 250,249 ,34,30.57,163.8,"2,24,174",4.9,43
+370,Husqvarna,Husqvarna Svartpilen 401,399 ,28,42.9,171.2,"2,97,528",4.8,33
+371,Husqvarna,Husqvarna Vitpilen 401,,,,,,,
+372,Indian,Indian Chief Dark Horse,1890 ,,,,"20,20,000",4.6,17
+373,Indian,Indian Chief Bobber Dark Horse,1890 ,,,,"21,39,925",,3
+374,Indian,Indian Super Chief Limited,1890 ,,,,"22,82,155",,5
+375,Indian,Indian FTR 1200,,,,,,,
+376,iVOOMi,iVOOMi S1,,,,,"79,999",4.4,13
+377,iVOOMi,iVOOMi Jeet X,,,,,"84,999",3.8,8
+378,Jawa,Jawa 42 Bobber,334 ,30,29.51,185,"2,11,864",4.6,298
+379,Jawa,Jawa 42,294.72 ,32,26.94,184,"1,74,895",4.2,115
+380,Jawa,Jawa 42 FJ,334 ,30,28.77,184,"2,01,045",4.7,126
+381,Jawa,Jawa Perak,334 ,30,30.2,185,"2,41,559",4.6,287
+382,Jawa,Jawa 350,334 ,28,22.26,194,"1,98,000",3.7,36
+383,Joy e-bike,Joy e-bike Glob,,,,,"70,000",2.5,18
+384,Joy e-bike,Joy e-bike Wolf,,,,,"72,000",2.3,77
+385,Joy e-bike,Joy e-bike Gen Nxt,,,,,"70,000",2.9,20
+386,Joy e-bike,Joy e-bike Mihos,,,,,"1,13,000",3.9,21
+387,Keeway,Keeway SR125,125 ,49,9.56,120,"1,20,002",4.3,144
+388,Keeway,Keeway K300 SF,292.4 ,37,27.8,151,"1,69,000",4.6,19
+389,Keeway,Keeway V302C,298 ,34,29.09,167,"4,28,793",4.3,52
+390,Keeway,Keeway SR250,223 ,5,15.78,120,"1,49,002",3.5,37
+391,Keeway,Keeway K300 R,292.4 ,,,165,"2,65,000",4.4,28
+392,Keeway,Keeway K-Light 250V,249 ,,,179,"3,20,000",4.5,15
+393,Keeway,Keeway Vieste 300,278.2 ,,,147,"3,25,000",3.9,11
+394,Keeway,Keeway Sixties 300i,278.2 ,,,146,"3,30,000",,3
+395,Kinetic Green,Kinetic Green E Luna,,,,,"69,990",4.3,25
+396,Kinetic Green,Kinetic Green Flex,,,,,"1,09,874",3.5,2
+397,Kinetic Green,Kinetic Green Zing,,,,,"67,990",4.5,4
+398,Kinetic Green,Kinetic Green Zulu,,,,,"80,990",,1
+399,Lambretta,Lambretta V125,,,,,,,
+400,Lambretta,Lambretta V200,,,,,,,
+401,Lectrix,Lectrix LXS 3.0,,,,,"1,01,980",,
+402,Lectrix,Lectrix SX25,,,,,"54,999",4.7,26
+403,Lectrix,Lectrix LXS 2.0,,,,,"89,970",,
+404,Lectrix,Lectrix Nduro,,,,,"1,01,620",,4
+405,Matter,Matter AERA,,,,,"1,83,305",4.4,45
+406,Moto Guzzi,Moto Guzzi V85 TT,853 ,,,230,"15,40,000",,1
+407,Moto Morini,Moto Morini Seiemmezzo,649 ,,,215,"4,99,131",,1
+408,Moto Morini,Moto Morini X-Cape,649 ,,,215,"5,99,000",3.9,8
+409,Numeros Motors,Numeros Motors Diplos,,,,,"1,16,140",,
+410,Oben,Oben Rorr EZ,,,,,"89,999",4.7,78
+411,Oben,Oben Rorr,,,,,"1,49,999",4.4,20
+412,Odysse,Odysse Evoqis,,,,,"1,18,000",3.9,43
+413,Odysse,Odysse E2Go,,,,,"71,100",4.6,5
+414,Odysse,Odysse Hawk,,,,,"99,400",,6
+415,Odysse,Odysse Racer,,,,,"1,00,450",,
+416,Odysse,Odysse Trot,,,,,"99,999",,
+417,Odysse,Odysse Vader,,,,,"1,61,574",4.8,6
+418,Okaya,Okaya Faast F4,,,,,"1,09,999",3.8,23
+419,Okaya,Okaya Freedum,,,,,"69,999",3.2,5
+420,Okaya,Okaya ClassIQ,,,,,"59,999",,2
+421,Okaya,Okaya Faast F2B,,,,,"89,999",3.7,6
+422,Okaya,Okaya Faast F2T,,,,,"89,999",4.8,5
+423,Okaya,Okaya Faast F2F,,,,,"79,999",,
+424,Okaya,Okaya Faast F3,,,,,"1,04,999",,3
+425,Okaya,Okaya Motofaast,,,,,"1,33,999",,1
+426,Okinawa,Okinawa Praise,,,,,"85,223",2.6,385
+427,Okinawa,Okinawa Ridge Plus,,,,,"90,549",3.2,43
+428,Okinawa,Okinawa i-Praise,,,,,"1,23,155",3.6,56
+429,Okinawa,Okinawa Lite,,,,,"69,087",,26
+430,Okinawa,Okinawa R30,,,,,"61,998",3.3,32
+431,Okinawa,Okinawa OKHI-90,,,,,"1,49,991",3.7,55
+432,Okinawa,Okinawa Dual 100,,,,,"1,19,085",,5
+433,Okinawa,Okinawa Ridge 100,,,,,"1,15,311",,6
+434,OLA,OLA S1 Pro,,,,,"1,44,309",,55
+435,OLA,OLA S1 X,,,,,"99,779",4.5,33
+436,OLA,OLA Roadster,,,,,"1,04,999",4.7,101
+437,OLA,OLA Gig,,,,,"39,999",4.6,27
+438,OLA,OLA Roadster Pro,,,,,"1,99,999",4.8,83
+439,OLA,OLA S1 X Gen 2,,,,,"93,737",4.2,363
+440,OLA,OLA Roadster X,,,,,"94,989",4.7,86
+441,OLA,OLA Gig+,,,,,"49,999",4.6,35
+442,OLA,OLA S1 Air,,,,,"1,25,191",4.1,242
+443,OLA,OLA Roadster X Plus,,,,,"1,24,989",4.8,11
+444,OLA,OLA S1 Pro Gen 2,,,,,"1,57,757",4.1,434
+445,OLA,OLA S1 Z,,,,,"59,999",4.7,138
+446,OLA,OLA Adventure,,,,,,,
+447,OLA,OLA Diamondhead,,,,,,,
+448,OLA,OLA Cruiser,,,,,,,
+449,PURE EV,PURE EV EPluto 7G,,,,,"77,999",2.3,320
+450,PURE EV,PURE EV ETrance Neo,,,,,"73,999",,60
+451,PURE EV,PURE EV Etryst 350,,,,,"1,30,012",3.6,23
+452,PURE EV,PURE EV EcoDryft,,,,,"1,00,012",4.3,18
+453,QJ Motor,QJ Motor SRC 250,249 ,,,163,"1,49,020",4.5,12
+454,QJ Motor,QJ Motor SRC 500,480 ,,,205,"1,99,026",4.3,12
+455,QJ Motor,QJ Motor SRK 400,400 ,,,186,"3,68,974",4.8,13
+456,QJ Motor,QJ Motor SRV 300,296 ,,,164,"3,19,000",4.4,12
+457,Quantum Energy,Quantum Energy Milan,,,,,"86,625",,
+458,Quantum Energy,Quantum Energy Plasma,,,,,"89,095",,
+459,Quantum Energy,Quantum Energy Bziness,,,,,"1,08,172",,1
+460,Revolt,Revolt RV400,,,,,"1,42,934",,474
+461,Revolt,Revolt RV1,,,,,"94,983",4.4,56
+462,Revolt,Revolt RV BlazeX,,,,,"1,24,990",,8
+463,River,River Indie,,,,,"1,43,001",4.5,39
+464,Simple Energy,Simple Energy One,,,,,"1,39,000",4.6,19
+465,Ultraviolette,Ultraviolette Tesseract,,,,,"1,20,000",4.8,83
+466,Ultraviolette,Ultraviolette F77 Mach 2,,,,,"2,99,000",4.6,27
+467,Ultraviolette,Ultraviolette Shockwave,,,,,"1,50,000",4.8,14
+468,Ultraviolette,Ultraviolette F77 SuperStreet,,,,,"2,99,000",,2
+469,Vespa,Vespa 125,124.45 ,,,115,"1,33,953",4.3,6
+470,Vespa,Vespa VXL 125,124.45 ,40,9.65,115,"1,31,952",3.5,130
+471,Vespa,Vespa SXL 125,124.45 ,40,9.65,115,"1,35,827",,109
+472,Vespa,Vespa SXL 150,149.5 ,35,10.64,115,"1,49,834",4.2,65
+473,Vespa,Vespa S 150,149.5 ,,,115,"1,51,784",,
+474,Vespa,Vespa VXL 150,149.5 ,41,10.64,115,"1,45,376",4.4,55
+475,Vespa,Vespa ZX 125,124.45 ,,,115,"1,17,759",4.4,50
+476,Vespa,Vespa 150,149.5 ,,,115,"1,48,939",,
+477,Vespa,Vespa S 125,124.45 ,,,115,"1,37,834",,
+478,VIDA,VIDA V2,,,,,"85,115",4.2,43
+479,Yezdi,Yezdi Adventure,334 ,30,29.6,187,"2,17,876",4.7,166
+480,Yezdi,Yezdi Roadster,334 ,28,29.23,194,"2,10,788",4.3,274
+481,Yezdi,Yezdi Scrambler,334 ,26,28.7,192,"2,14,258",3.9,102
+482,Yezdi,Yezdi Streetfighter,,,,,,,
+483,Yezdi,Yezdi Adventure [2025],,,,,,,
+484,Yezdi,Yezdi Roadking,,,,,,,
+485,Yo,Yo Drift,,,,,"64,991",3.7,45
+486,Yo,Yo Edge,,,,,"61,991",4.1,42
+487,Zontes,Zontes 350R,348 ,35,38.2,180,"2,79,000",4.6,65
+488,Zontes,Zontes 350T,348 ,,,196,"2,99,000",4.7,19
+489,Zontes,Zontes GK350,348 ,,,188,"3,47,000",4.6,16
+490,Zontes,Zontes 350X,348 ,,,185,"2,99,000",4.4,7
